@@ -9,9 +9,9 @@ LanoX vim theme for python specificly but can be good for everything else. :)
 ## Installation
 
 
-1. Clone this repository somewhere on you drive.
-2. Place lanox.vim in to colors directory.
-3. Load lanox.vim theme in your vimrc config file.
+1. Clone this repository to **.vim/colors/
+2. Place lanox.vim in  **.vim/colors/** directory.
+3. Load lanox.vim theme in your **.vimrc** config file.
 
 ## Inspired
 
