@@ -1,10 +1,10 @@
-# TMUX RANDOM session name generator.
+# VIM LanoX Theme 
 
 LanoX vim theme for python specificly but can be good for everything else. :)
 
 
-![alt tag](https://github.com/lanox/tmux/blob/master/screenshoots/python-ruby.png)
-![alt tag](https://github.com/lanox/tmux/blob/master/screenshoots/vimdif.png)
+![alt tag](https://github.com/lanox/lanox-vim-theme/blob/master/scrennshoots/python-ruby.png)
+![alt tag](https://github.com/lanox/lanox-vim-theme/blob/master/scrennshoots/vimdiff.png)
 
 ## Installation
 
