@@ -7,10 +7,10 @@
 " |_| \__,_||_| |_| \___//_/\_\(_)\_/  |_||_| |_| |_|
 
 "
-" Dark vim colorscheme based on colors from Wes Anderson films
+" Dark vim colorscheme based on all other themes on the web + my own ideas.
 "
 " File:         lanox.vim
-" URL:
+" URL:          https://github.com/lanox/lanox-vim-theme
 " Author:       Lano Puljic
 " License:      MIT
 "
