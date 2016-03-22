@@ -7,10 +7,10 @@
 " |_| \__,_||_| |_| \___//_/\_\(_)\_/  |_||_| |_| |_|
 
 "
-" Dark vim colorscheme based on all other themes on the web + my own ideas.
+" Dark vim colorscheme based on colors from Wes Anderson films
 "
 " File:         lanox.vim
-" URL:          https://github.com/lanox/lanox-vim-theme
+" URL:
 " Author:       Lano Puljic
 " License:      MIT
 "
@@ -95,7 +95,7 @@ hi DiffText                  ctermfg=231           ctermbg=40       cterm=bold  
 "-------------------------
 "- Completion Menu       -
 "-------------------------
-hi Pmenu                     ctermfg=41            ctermbg=NONE     cterm=NONE       guifg=#2ecc71  guibg=NONE     gui=NONE
+hi Pmenu                     ctermfg=41            ctermbg=235      cterm=NONE       guifg=#2ecc71  guibg=NONE     gui=NONE
 hi PmenuSel                  ctermfg=NONE          ctermbg=238      cterm=NONE       guifg=NONE     guibg=#444444  gui=NONE
 hi PreCondit                 ctermfg=118           ctermbg=NONE     cterm=bold       guifg=#87FF00  guibg=NONE     gui=NONE
 hi PreProc                   ctermfg=118           ctermbg=NONE     cterm=NONE       guifg=NONE     guibg=NONE     gui=NONE
@@ -122,8 +122,8 @@ hi MoreMsg                   ctermfg=229           ctermbg=NONE     cterm=NONE  
 "- Visual Aid              -
 "---------------------------
 hi MatchParen                ctermfg=16            ctermbg=208      cterm=bold       guifg=#000000  guibg=#FF8700  gui=NONE
-hi Visual                    ctermbg=235           ctermbg=NONE     cterm=NONE       guifg=#262626  guibg=NONE     gui=NONE
-hi VisualNOS                 ctermbg=238           ctermbg=NONE     cterm=NONE       guifg=#444444  guibg=NONE     gui=NONE
+hi Visual                    ctermfg=NONE          ctermbg=236      cterm=NONE       guifg=#262626  guibg=NONE     gui=NONE
+hi VisualNOS                 ctermfg=238           ctermbg=NONE     cterm=NONE       guifg=#444444  guibg=NONE     gui=NONE
 hi NonText                   ctermfg=240           ctermbg=233      cterm=NONE       guifg=#585858  guibg=#121212  gui=NONE
 hi Todo                      ctermfg=231           ctermbg=232      cterm=underline  guifg=#FFFFFF  guibg=#080808  gui=NONE
 hi Underlined                ctermfg=244           ctermbg=NONE     cterm=underline  guifg=#808080  guibg=NONE     gui=NONE
@@ -137,12 +137,12 @@ hi SpecialKey                ctermfg=245           ctermbg=NONE     cterm=NONE  
 "- Window/Tab/Delimiter    -
 "---------------------------
 hi VertSplit                 ctermfg=244           ctermbg=232      cterm=bold       guifg=#808080  guibg=#080808  gui=NONE
-hi ColorColumn               ctermbg=234           ctermbg=NONE     cterm=NONE       guifg=NONE     guibg=NONE     gui=NONE
+hi ColorColumn               ctermfg=NONE          ctermbg=234      cterm=NONE       guifg=NONE     guibg=NONE     gui=NONE
 
 "---------------------------
 "- Number column           -
 "---------------------------
-hi CursorColumn              ctermbg=234           ctermbg=NONE     cterm=NONE       guifg=NONE     guibg=#1C1C1C  gui=NONE
+hi CursorColumn              ctermfg=NONE          ctermbg=234      cterm=NONE       guifg=NONE     guibg=#1C1C1C  gui=NONE
 hi FoldColumn                ctermfg=67            ctermbg=233      cterm=NONE       guifg=#5F87AF  guibg=#121212  gui=NONE
 hi SignColumn                ctermfg=118           ctermbg=235      cterm=NONE       guifg=#87FF00  guibg=#262626  gui=NONE
 hi Folded                    ctermfg=67            ctermbg=233      cterm=NONE       guifg=#5F87AF  guibg=#121212  gui=NONE
